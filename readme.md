@@ -2,6 +2,8 @@
 
 This is an experiment to see if sharing workflows is a worthwhile experience!
 
+I use [Licecap](https://github.com/lepht/licecap) to record gifs
+
 Workflows:
 
 - peterpme
